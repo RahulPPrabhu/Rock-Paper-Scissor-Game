@@ -49,10 +49,10 @@ while True:
     print("System Score: ", System_Score)
     print("------------------------------")
 
-    if User_Score == 2:
+    if User_Score == 5:
         print("Congratulation!!! You Won 🥳")
         break
-    elif System_Score == 2:
+    elif System_Score == 5:
         print("Sorry Mate!!! You lost😂💪")
         break
 
